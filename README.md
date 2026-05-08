@@ -15,7 +15,7 @@
 ### 2. AI POS Demo — Restaurant & Retail system
 - Features: iPad ordering, barcode scan, real-time dashboard
 - Stack: React, Node.js, PostgreSQL
-- 🚀 **Live Demo:** [Try POS](https://aroi.aroix1000.net/pos)
+- 🚀 **Live Demo:** [Try POS](https://pos.aroix1000.net)
 - 👉 **Hire me for Custom POS:** [Upwork - from $499](https://www.upwork.com/services/product/development-it-a-premium-custom-ai-pos-system-for-retail-and-restaurant-2050911174186042474?ref=project_share&tier=0)
 
 <img src="https://github.com/user-attachments/assets/a0e3a09e-1946-4f02-9e89-de8a6f92a91a" width="700">
