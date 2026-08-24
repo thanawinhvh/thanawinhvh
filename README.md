@@ -110,7 +110,7 @@ Not just prototypes — real apps, real users, real infrastructure.
 - AI-powered platform for Thai fruit brokers (ล้ง) in Chanthaburi
 - Features: Command Center, real-time queue system, AI Co-Pilot, purchase tracking, export reports
 - Stack: Next.js, Supabase, Claude API · Multi-tenant
-- 🚀 **Live:** [laung.harvesthubs.app](https://laung.harvesthubs.app)
+- 🚀 **Live:** [laungpro.com](https://laungpro.com)
 
 <img width="700" src="https://github.com/user-attachments/assets/a50301ce-de3a-4e2f-9bd8-7ec87e62af33" />
 <img width="700" src="https://github.com/user-attachments/assets/2cc7fea6-5514-4304-bd0e-1cd293a5b58c" />
