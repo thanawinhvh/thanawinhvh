@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thanawin%20(T-Win)%20Padsamran&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20SaaS%20Builder%20%C2%B7%20Solo%20Full-Stack%20%C2%B7%20Thailand&descAlignY=55&descSize=18" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanawinhvh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thanawin.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanawin@harvesthubs.app)
 [![MuseGen](https://img.shields.io/badge/MuseGen-7C3AED?style=for-the-badge&logo=spotify&logoColor=white)](https://app.musegenx1000.com)
 [![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/thanawinhvh)
