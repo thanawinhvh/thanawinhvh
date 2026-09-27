@@ -1,50 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thanawin%20(T-Win)%20Padsamran&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20SaaS%20Builder%20%C2%B7%20Solo%20Full-Stack%20%C2%B7%20Thailand&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thanawin%20(T-Win)%20Padsamran&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Solo%20AI-Orchestrator%20%C2%B7%20Award%20Winner%20%C2%B7%20Thailand&descAlignY=55&descSize=18" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanawinhvh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thanawin.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanawin@harvesthubs.app)
-[![MuseGen](https://img.shields.io/badge/MuseGen-7C3AED?style=for-the-badge&logo=spotify&logoColor=white)](https://app.musegenx1000.com)
-[![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/thanawinhvh)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanawinhvh)
+[[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thanawin.dev)
+[[Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanawin@harvesthubs.app)
+[[MuseGen](https://img.shields.io/badge/MuseGen-7C3AED?style=for-the-badge&logo=spotify&logoColor=white)](https://app.musegenx1000.com)
+[[Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/thanawinhvh)
 
 </div>
 
 ---
 
-## 🚀 I build AI-powered SaaS — from 0 to live
+## 🚀 Solo AI-Orchestrator — I ship production AI SaaS end-to-end
 
-Solo full-stack developer shipping **production AI products** across diverse verticals.
-Not just prototypes — real apps, real users, real infrastructure.
+I direct **AI coding tools (Claude Code, Cursor)** to design, build, and operate production AI systems — architecture, backend, frontend, deployment, and real users.
+
+Live products across **agritech, hospitality, music, govtech & healthcare**. Not prototypes — real apps, real users, real infra.
 
 ```
-💡 Idea  →  ⚙️ Build  →  🚀 Deploy  →  📈 Scale
+💡 Idea  →  ⚙ Build  →  🚀 Deploy  →  📈 Scale
          3–6 weeks, solo, production-ready
 ```
 
+> **🏆 ASEAN Cooperation Potential Award Winner • China-ASEAN AI + Cross-Border E-Commerce Competition 2026**
+> Sole Thai team in finals — Built solo, end-to-end. Quoted by China News Service.
+
 ---
-
-
 
 <div align="center">
 
 **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+[Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+[Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
-**Backend & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+**AI / LLM**
+[Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+[OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=white)
+[Claude Code](https://img.shields.io/badge/Claude%20Code-000?style=flat-square&logo=anthropic&logoColor=white)
+[ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square)
+[RVC](https://img.shields.io/badge/RVC%20Voice%20Cloning-7C3AED?style=flat-square)
+[Suno](https://img.shields.io/badge/Suno%20API-000?style=flat-square)
+[Simli](https://img.shields.io/badge/Simli%20Avatar-FF5A5F?style=flat-square)
 
-**Infrastructure**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+**Backend & Infra**
+[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+[Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+[Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+[Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 
 </div>
 
@@ -62,7 +72,7 @@ Not just prototypes — real apps, real users, real infrastructure.
 | Custom AI POS System | 2–4 weeks | $2,000 |
 | Claude API Integration | 1 week | $800 |
 
-📩 **Contact:** [thanawin@harvesthubs.app](mailto:thanawin@harvesthubs.app) · [LinkedIn](https://www.linkedin.com/in/thanawinhvh)
+📩 **Contact:** [thanawin@harvesthubs.app](mailto:thanawin@harvesthubs.app) · [LinkedIn](https://www.linkedin.com/in/thanawinhvh) · [093-465-0465](tel:+66934650465)
 
 ---
 
@@ -73,86 +83,89 @@ Not just prototypes — real apps, real users, real infrastructure.
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=thanawinhvh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawinhvh&layout=compact&theme=tokyonight&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thanawinhvh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[[GitHub Streak](https://streak-stats.demolab.com?user=thanawinhvh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# 🏗️ AI Projects by T-Win
+# 🏗 AI Products by T-Win — Live in Production
 
----
+> All products designed, built, deployed, and operated **solo, end-to-end**. Data from thanawin.dev — May 2026
 
-### 1. MuseGen — AI Music SaaS (10k+ users)
-- Stack: Next.js, Python, GCP
+### 1. LaungPro — Durian Export AI Assistant 🏆 Award Winner
+**Sole Thai team in finals of 2026 China-ASEAN “AI + Cross-Border E-Commerce” Innovation Competition — Won ASEAN Cooperation Potential Award + Excellence Award (优胜奖) in Nanning, July 2026**
+
+Multi-tenant SaaS for Thai durian-export packing houses — **live in 1 pilot packing house**, in active discussion to convert to paid next season. ฿5.8M+ GMV and 8 export containers demonstrated via full-season demo simulation.
+
+- Thai voice-to-structured-data intake, trilingual traceability passports with QR, export docs, buyer-seller matching for China-ASEAN trade
+- Quoted by China News Service: *“The e-commerce platform we developed can effectively solve the communication problem between Thai durian growers and Chinese consumers due to language barriers.”*
+- Stack: FastAPI, React, PostgreSQL, Multi-tenant
+- 🚀 **Beta:** [laungpro.com](https://laungpro.com) | **Demo:** [demo.laungpro.com](https://demo.laungpro.com) (demo / Demo1234!)
+
+### 2. AIB POS — AI Restaurant POS with Thai Voice Waitress
+Multi-tenant SaaS with **AI voice waitress** for real-time Thai-language ordering via WebSocket streaming (68ms). Simli avatar with gender-aware TTS (OpenAI / Azure / Botnoi).
+
+- Real restaurant running live, LINE integration, real-time kitchen display
+- Stack: React, FastAPI, OpenAI, WebSocket, PostgreSQL
+- 🚀 **Live Demo:** [demo.aibpos.app](https://demo.aibpos.app)
+
+### 3. MuseGen — AI Music Studio (10k+ users)
+AI music generation for Thai lukthung/molam genres — dialect-aware lyrics, custom RVC v2 voice cloning, Suno backend, Stripe billing.
+
 - Private repo — code available under NDA
-- 🚀 **Live Demo:** [Listen on MuseGen](https://app.musegenx1000.com/s/Z7q-0Nt54Io?v=1)
-- 👉 **Hire me for AI Web Apps:** [Upwork - from $500](https://www.upwork.com/services/product/development-it-a-thai-ai-automation-system-built-in-3-weeks-2050633709600776041?ref=project_share&tier=0)
+- Stack: FastAPI, Claude API, RVC, Docker, Stripe
+- 🚀 **Live:** [app.musegenx1000.com](https://app.musegenx1000.com) | 👉 **Hire for AI Web Apps:** [Upwork](https://www.upwork.com/services/product/development-it-a-thai-ai-automation-system-built-in-3-weeks-2050633709600776041?ref=project_share)
 
-<img src="https://github.com/user-attachments/assets/4397ffa7-408f-495f-aba0-792313a9e362" width="700">
-<img src="https://github.com/user-attachments/assets/9d194870-4149-4f4b-bf85-d0d1f1dc058c" width="700">
-<img src="https://github.com/user-attachments/assets/480120c2-3c1f-4893-bb2f-4c18d1079b61" width="700">
+### 4. MekhongAlert — Cross-Border Disaster Alert Platform
+AI-powered flood/disaster early-warning connecting Thai and Chinese emergency agencies across the Mekong. Built for 2026 China (Guangxi)–ASEAN “AI + Emergency Management” Competition.
 
----
+- 5-language AI localization (Claude), LINE citizen photo/location reporting with AI triage, shared incident room with live cross-tenant translation, AI impact assessment + shelter recommendations
+- Stack: FastAPI, Claude API, Supabase, React, LINE Bot API, Multi-tenant RLS
+- 🚀 **Live:** [alert.harvesthubs.app](https://alert.harvesthubs.app)
 
-### 2. AI POS Demo — Restaurant & Retail System
-- Features: iPad ordering, barcode scan, real-time dashboard
-- Stack: React, Node.js, PostgreSQL
-- 🚀 **Live Demo:** [Try POS](https://pos.aroix1000.net)
-- 👉 **Hire me for Custom POS:** [Upwork - from $499](https://www.upwork.com/services/product/development-it-a-premium-custom-ai-pos-system-for-retail-and-restaurant-2050911174186042474?ref=project_share&tier=0)
+### 5. Harvest Hub — Farm Management AI + IoT
+Farm management platform with AI analytics and IoT sensor integration. Connects farmers to buyers with real-time market pricing and crop tracking.
 
-<img src="https://github.com/user-attachments/assets/a0e3a09e-1946-4f02-9e89-de8a6f92a91a" width="700">
-<img src="https://github.com/user-attachments/assets/f4771b37-f511-4ae8-82e7-9a695f1086e4" width="700">
-
----
-
-### 3. LàungPro — Durian Export AI Management
-- AI-powered platform for Thai fruit brokers (ล้ง) in Chanthaburi
-- Features: Command Center, real-time queue system, AI Co-Pilot, purchase tracking, export reports
-- Stack: Next.js, Supabase, Claude API · Multi-tenant
-- 🚀 **Live:** [laungpro.com](https://laungpro.com)
-
-<img width="700" src="https://github.com/user-attachments/assets/a50301ce-de3a-4e2f-9bd8-7ec87e62af33" />
-<img width="700" src="https://github.com/user-attachments/assets/2cc7fea6-5514-4304-bd0e-1cd293a5b58c" />
-
----
-
-### 4. Harvest Hub — Farm IoT + AI Management
-- Smart farm monitoring with IoT sensors and AI insights
-- Features: Dashboard, sensor tracking, AI recommendations, weather integration
-- Stack: Next.js, Supabase, IoT
+- Stack: FastAPI, IoT, React, Supabase
 - 🚀 **Live:** [app.harvesthubs.app](https://app.harvesthubs.app)
 
-<img width="700" src="https://github.com/user-attachments/assets/82d2e055-8506-417a-944c-2ae411585e0f" />
-<img width="700" src="https://github.com/user-attachments/assets/2b08cb49-7bd8-4768-ae61-fbe08d709e22" />
+### 6. TeunDee Health — Patient Management Platform
+AI-assisted patient intake and document processing pipeline for clinics. Role-based access control for clinic staff and physicians.
+
+- Stack: React, FastAPI, Supabase
+- 🚀 **Live:** [tuendee.harvesthubs.app](https://tuendee.harvesthubs.app)
+
+### 7. AppGu — AI Agent Builder
+Platform for building custom AI agents and LINE bots for businesses. No-code agent config with LLM orchestration and multi-tenant backend.
+
+- Stack: FastAPI, Claude API, LLM, Multi-tenant
+- 🚀 **Live:** [appgu.ai](https://appgu.ai)
+
+### 8. Panit — Auto Parts Management
+Wholesale/retail auto parts inventory and order management system with supplier integration and stock tracking.
+
+- Stack: FastAPI, React, PostgreSQL
+- 🚀 **Live:** [panit.harvesthubs.app](https://panit.harvesthubs.app)
+
+### 9. Harvestrites — AI Event Platform for Thai Ceremonies
+Multi-tenant platform for Thai weddings and funerals — subdomain per event, AI wish/condolence writers and culture checker, guestbook and RSVP.
+
+- Stack: Cloudflare Pages, Supabase, OpenAI, Multi-tenant
+- 🚀 **Live:** [somsak.harvestrites.com](https://somsak.harvestrites.com)
+
+### 10. HoneyMoon Date — LGBTQ+ Dating Platform
+Safe, inclusive dating app with AI matching, profile verification, private messaging.
+
+- Stack: Next.js, Supabase, Multi-tenant
+- 🚀 **Beta:** [app.honeymoondate.app](https://app.honeymoondate.app)
 
 ---
 
-### 5. Tuendee — Healthcare SaaS *(in development)*
-- AI-assisted healthcare management platform
-- Stack: FastAPI, Next.js, Supabase
-- 🔨 **Dev:** [tuendee.harvesthubs.app](https://tuendee.harvesthubs.app)
+### 🎥 Official Music Videos (Built with MuseGen)
 
-<img width="700" src="https://github.com/user-attachments/assets/151b97df-3392-477f-b8d3-457e41770d9e" />
-
----
-
-### 6. HoneyMoon Date — LGBTQ+ Dating Platform
-- Safe, inclusive dating app with AI matching
-- Stack: Next.js, Supabase · Multi-tenant
-- 🚀 **Live:** [app.honeymoondate.app](https://app.honeymoondate.app)
-
-<img width="700" src="https://github.com/user-attachments/assets/0bd1b868-a572-4b34-bb41-c1fcf5a73071" />
-<img width="700" src="https://github.com/user-attachments/assets/38f46828-11c1-4a91-beb6-cb5a0bf88c77" />
-
----
-
-### 7. APP GU — AI App Builder *(in development)*
-- AI-powered platform to help anyone build apps from an idea instantly
-- Stack: Claude API, Next.js
-- 🔨 **Dev:** [appgu.ai](https://appgu.ai)
-
-<img width="700" src="https://github.com/user-attachments/assets/bcaea341-4873-40b7-8e9c-d4f64ad512da" />
+- **APEX Mini AI Hackathon 2026 Theme Song** — [YouTube](https://www.youtube.com/embed/RHAjmsehWps)
+- **ประตูพัง (Door's Down)** — AI-composed and produced end-to-end
 
 ---
 
@@ -161,6 +174,8 @@ Not just prototypes — real apps, real users, real infrastructure.
 🌏 **Based in Thailand · Available Worldwide · Remote-first**
 
 *Building AI products that matter — one deploy at a time.*
+
+**thanawin.dev** · **093-465-0465** · **thanawin@harvesthubs.app**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
